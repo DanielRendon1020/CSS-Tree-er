@@ -4,6 +4,10 @@
 
 }
 
+#hero img {
+  width: 100%;
+}
+
 #hero h2 {
   position: absolute;
   top: 50%;
@@ -20,3 +24,7 @@ nav {
 /* img {
   width: 100px;
 } */
+
+footer {
+  height: ;
+}
